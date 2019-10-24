@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P2</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Address: 123, Jalan A, ABC, 12345 ABC
+        \n\n ABC
+        \n\t ABCABC
+        \n\t ACBSDAW
+    </string>
+    <string name="profile_name">YoUr NaMe</string>
+</resources>
